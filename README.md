@@ -5,7 +5,7 @@
 
 ## Personal Profile
 I am a responsible, organized, and focused Full Stack Developer, with excellent ability to meet deadlines and perform tasks in a thorough and focused manner.  
-I have great patience and an excellent ability to להתמודד with technological challenges, while finding creative and accurate solutions.  
+I have great patience and an excellent ability to handle technological challenges, while finding creative and accurate solutions.  
 Highly motivated, with a strong desire to advance, learn, and acquire knowledge.
 
 ---
